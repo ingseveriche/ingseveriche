@@ -20,8 +20,5 @@
 ![image](https://github.com/ingseveriche/ingseveriche/assets/114374804/8752d754-1ba5-44da-9442-37a599bbd107)
 ![image](https://github.com/ingseveriche/ingseveriche/assets/114374804/2132a64b-eee6-4190-9321-45f23340eee1)
 
-
-
-
-
-
+> [!IMPORTANT]
+> Portafolio en desarrollo.
