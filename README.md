@@ -4,6 +4,7 @@
 - 🌱 Estoy aprendiendo React.
 - 👯 Me gustaría colaborar en proyectos PHP.
 - 📚 Me apasiona leer y el cine.
+- :sunglasses: Iniciando en el mundo del anime.
 
 ## Lenguajes y Herramientas
 
