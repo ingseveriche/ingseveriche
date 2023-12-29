@@ -1,8 +1,8 @@
 ## ¡Hola! 👋
 
-- 🔭 Actualmente estoy buscando un reto profesional.
+- 🔭 Actualmente estoy buscando una oportunidad laboral donde pueda desarrollar nuevas competencias, encuentre retos y desafíos de acuerdo a las nuevas herramientas y tecnologías, además de tener crecimiento profesional.
+- 👯 Me gustaría colaborar en proyectos donde pueda aportar mis conocimientos y a su vez aprender, en proyectos web con gran alcance que me inviten a poner en practicar mis habilidades.
 - 🌱 Estoy aprendiendo React.
-- 👯 Me gustaría colaborar en proyectos PHP.
 - 📚 Me apasiona leer y el cine.
 - :sunglasses: Iniciando en el mundo del anime.
 
